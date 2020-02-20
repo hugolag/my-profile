@@ -1,0 +1,84 @@
+body {
+  background-color: #8896AB;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+} 
+
+h1 {
+  color : Black;
+  font-family: 'Tomorrow', sans-serif
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 { 
+  color :  #18314F;
+  font-family : Arial;
+  font-size : 29px;
+ }
+
+
+ h3 {
+  color: white;
+  font-family : Timesnewroman;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  background-color: #8896AB;
+  border: 6px solid #18314F;
+  width : 600px;
+  border-radius : 15px;
+  display: center;
+  text-align: center;
+  padding: 20px 10px;
+  margin: 40px auto;
+
+}
+
+.avatar {
+  border-radius: 55%;
+  height: 200px;  
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.mail{
+  background-color: #8896AB;
+  padding: 10px 5px;
+  text-decoration: none;
+  box-shadow: 7px 7px 10px rgba(50,50,93,0.3);
+  font-family: Arial; 
+  font-weight: bolder; 
+  color: black;
+  border: 3px solid #18314F;
+}
+
+.maildiv {
+  width: 100%;
+  text-align: center;
+}
+
+.fa-instagram-square {
+  color: #C13584;
+  font-size: 60px;
+  margin-right: 15px;
+}
+
+.fa-facebook-square{
+  color: blue;
+  font-size: 60px;
+  margin-right: 15px;
+}
+
+.fa-linkedin{
+  color: #0077B5;
+  font-size: 60px;
+}
